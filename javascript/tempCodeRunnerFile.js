@@ -1,2 +1,0 @@
-
-var target = 6;
